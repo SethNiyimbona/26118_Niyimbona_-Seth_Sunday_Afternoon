@@ -1,4 +1,6 @@
 
+Got it! Here's a README draft that includes the combined code snippets for each exception along with explanations.
+
 Java Exception Handling Examples
 Objective
 This project provides practical examples of handling exceptions in Java. Each example triggers a specific exception and demonstrates how to catch and handle it using try-catch blocks. Detailed explanations accompany each code snippet to enhance understanding.
